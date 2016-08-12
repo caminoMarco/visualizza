@@ -35,6 +35,7 @@ public class Grafico {
          System.out.println( "master 2.2" );
          System.out.println( "provaBranch 2.3" );
          System.out.println( "provaBranch 2.4" );
+         System.out.println( "provaBranch 2.5" );
  
      } 
 
