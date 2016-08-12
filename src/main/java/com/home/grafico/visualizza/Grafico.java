@@ -31,6 +31,7 @@ public class Grafico {
          frame.pack(); 
          frame.setVisible(true); 
          System.out.println( "Prova di jfreechart incluso con maven 2" ); 
+         System.out.println( "master 2.1" );
  
      } 
 
